@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+video/
+.ipynb_checkpoints/
+*assignment/
+*Quiz*
+*.pdf
+*Question.ipynb

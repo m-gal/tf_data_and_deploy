@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Documents\\Courses\\TensorFlow-Data-and-Deployment-Specialization-master"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\User\\anaconda3\\envs\\py38_tf23\\python.exe"
+	}
+}
